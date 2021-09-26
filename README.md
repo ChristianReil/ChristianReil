@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChristianReil
+- 👋 Hi, I’m @ChristianReil, CEO and Founder from CR-3D 
 - 👀 I’m interested in 3D-printing
 - 🌱 I’m currently learning how to build the best 3D-printer in the world
 - 💞️ I’m looking to collaborate on a new 3D-Printing SliCR-3D
